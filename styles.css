@@ -57,6 +57,16 @@ header {
 	top: 20px;
 }
 
+p {
+	color: #fff;
+	text-align: center;
+	font-family: 'Montserrat';
+	opacity: 0;
+	animation: fadeInText 1s 2s ease-in forwards;
+	position: relative;
+	top: 30px;
+}
+
 @keyframes expandLogo {
 	0% {
 		width: 20%;
