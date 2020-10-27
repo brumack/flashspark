@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded", function(){
     gsap.to('#innerCircleBorder', { rotation: -360, duration: 50, repeat: -1, ease: 'linear'})
     gsap.to('#coming', {opacity: 1, delay: 1})
     gsap.to('#soon', {opacity: 1, delay: 1})
-    gsap.to('p', {opacity: 1, delay: 1})
+    gsap.to('p', {opacity: 1, delay: 1.5})
 });
 
