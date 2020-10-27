@@ -95,7 +95,9 @@ header {
 p {
 	color: #fff;
 	text-align: center;
+	opacity: 0;
 	font-family: 'Montserrat Thin';
+	font-size: 0.8rem;
 	position: relative;
-	top: 50px;
+	top: 60px;
 }
